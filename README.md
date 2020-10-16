@@ -1,1 +1,1 @@
-Flutter BLoC Pattern example without using library
+Flutter BLoC Pattern example without using bloc library.
